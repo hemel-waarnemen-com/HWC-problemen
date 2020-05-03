@@ -12,4 +12,6 @@ Rapporteer hier problemen op hemel.waarnemen.com door een nieuw **Issue** aan te
 7. U kunt op de Issue-pagina de vorderingen volgen, en zien of het probleem kan worden opgelost, of dat er
    b.v. om meer informatie wordt gevraagd.
 
+Merk op dat hemel.waarnemen.com een hobby is.  Er zijn momenteel geen fondsen om hier prioriteit aan te geven,
+dus dit soort werk blijft beperkt tot soms in het weekend.  Als u daar verandering in wilt brengen, dan hoor ik het graag.
 
